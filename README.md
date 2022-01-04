@@ -1,2 +1,2 @@
 # anshumant.github.io
-For developing a personal webpage and learning git
+The end goal of this is to make a fancy looking and somewhat compact webpage.
